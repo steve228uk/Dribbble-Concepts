@@ -4,4 +4,4 @@
 
 ## Concepts
 
-- **Gradient Text** - Based on (Cassius Kiani's Concept)[https://dribbble.com/shots/3242185-Looking-for-a-Party]. This is an animated gradient masked with a UILabel to provide a fun effect.
+- **Gradient Text** - Based on [Cassius Kiani's Concept](https://dribbble.com/shots/3242185-Looking-for-a-Party]). This is an animated gradient masked with a UILabel to provide a fun effect.
